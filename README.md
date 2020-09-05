@@ -7,3 +7,4 @@ torchvision=0.5.0
 cudatoolkit=10.1
 cudnn=7.6.3
 
+若哪里不足请指出来，共同学习。
